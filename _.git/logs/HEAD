@@ -1,0 +1,59 @@
+0000000000000000000000000000000000000000 ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 unknown <user@user-PC.(none)> 1475409899 +0800	clone: from https://github.com/JamesShieh0510/K-H-Website-Project.git
+ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 unknown <user@user-PC.(none)> 1475412628 +0800	checkout: moving from master to origin/develop
+b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 d9268f535c466c9a8a98cdb3e14e3364892a583b B.K.TU <actionkeep@gmail.com> 1475412962 +0800	commit: fixed meta description of the header file and edit map http to https from view/index/index file
+d9268f535c466c9a8a98cdb3e14e3364892a583b b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 B.K.TU <actionkeep@gmail.com> 1475412992 +0800	checkout: moving from d9268f535c466c9a8a98cdb3e14e3364892a583b to origin/develop
+b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 B.K.TU <actionkeep@gmail.com> 1475413007 +0800	checkout: moving from b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 to master
+ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 B.K.TU <actionkeep@gmail.com> 1475413459 +0800	checkout: moving from master to origin/develop
+b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 B.K.TU <actionkeep@gmail.com> 1475414502 +0800	checkout: moving from b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 to master
+ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 B.K.TU <actionkeep@gmail.com> 1475414763 +0800	checkout: moving from master to origin/develop
+b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 e4040497e79d9b67f8cf3123b7985046ee8c816e B.K.TU <actionkeep@gmail.com> 1475414824 +0800	commit: fixed meta description of the header file and edit map http to https from view/index/index file
+e4040497e79d9b67f8cf3123b7985046ee8c816e b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 B.K.TU <actionkeep@gmail.com> 1475414864 +0800	checkout: moving from e4040497e79d9b67f8cf3123b7985046ee8c816e to origin/develop
+b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 B.K.TU <actionkeep@gmail.com> 1475415083 +0800	checkout: moving from b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 to master
+ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 B.K.TU <actionkeep@gmail.com> 1475415271 +0800	checkout: moving from master to develop
+b3ea7ea336f3b4641e4d730d1f42f06385cff0c3 8f5e13061459f60fc3e648c656344fc9e430523a B.K.TU <actionkeep@gmail.com> 1475415407 +0800	commit: fixed meta description of the header file and edit map http to https from view/index/index file
+8f5e13061459f60fc3e648c656344fc9e430523a 8f5e13061459f60fc3e648c656344fc9e430523a B.K.TU <actionkeep@gmail.com> 1475415464 +0800	checkout: moving from develop to release/v1.0.3
+8f5e13061459f60fc3e648c656344fc9e430523a ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 B.K.TU <actionkeep@gmail.com> 1475415495 +0800	checkout: moving from release/v1.0.3 to master
+ec9c480cc89c3913e38b9b11ddcb7206fb0b8908 0957c9042f7a9df153c4886e02fcc86583958fac B.K.TU <actionkeep@gmail.com> 1475415495 +0800	merge release/v1.0.3: Merge made by the 'recursive' strategy.
+0957c9042f7a9df153c4886e02fcc86583958fac 19fb43fa87421547c4974d9b8283ab260f5d1b2c B.K.TU <actionkeep@gmail.com> 1476191357 +0800	pull origin master: Fast-forward
+19fb43fa87421547c4974d9b8283ab260f5d1b2c fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 B.K.TU <actionkeep@gmail.com> 1476191922 +0800	checkout: moving from master to origin/develop
+fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 7ab789b4af797d7e58e6f82190a03478f2aae6bd B.K.TU <actionkeep@gmail.com> 1476197424 +0800	commit: edit the header slogan and add backstage slogan function
+7ab789b4af797d7e58e6f82190a03478f2aae6bd 8f5e13061459f60fc3e648c656344fc9e430523a B.K.TU <actionkeep@gmail.com> 1476197542 +0800	checkout: moving from 7ab789b4af797d7e58e6f82190a03478f2aae6bd to develop
+8f5e13061459f60fc3e648c656344fc9e430523a fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 B.K.TU <actionkeep@gmail.com> 1476197558 +0800	pull origin develop: Fast-forward
+fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 B.K.TU <actionkeep@gmail.com> 1476197591 +0800	checkout: moving from develop to release/v1.0.7
+fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 19fb43fa87421547c4974d9b8283ab260f5d1b2c B.K.TU <actionkeep@gmail.com> 1476197634 +0800	checkout: moving from release/v1.0.7 to master
+19fb43fa87421547c4974d9b8283ab260f5d1b2c e0cf858839088f4502fccdd5bfade10d5277f1ef B.K.TU <actionkeep@gmail.com> 1476197635 +0800	merge release/v1.0.7: Merge made by the 'recursive' strategy.
+e0cf858839088f4502fccdd5bfade10d5277f1ef fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 B.K.TU <actionkeep@gmail.com> 1476197714 +0800	checkout: moving from master to develop
+fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 B.K.TU <actionkeep@gmail.com> 1476197784 +0800	checkout: moving from develop to develop
+fb544d054bcc6a7bf8cc0a42c79b0fdb916ca0e6 b03f6b006895b111b9aa88dd8143f8a6b5563a1e B.K.TU <actionkeep@gmail.com> 1476197967 +0800	commit: Add Editor of Slogan
+b03f6b006895b111b9aa88dd8143f8a6b5563a1e b03f6b006895b111b9aa88dd8143f8a6b5563a1e B.K.TU <actionkeep@gmail.com> 1476197996 +0800	checkout: moving from develop to release/v.1.0.8
+b03f6b006895b111b9aa88dd8143f8a6b5563a1e e0cf858839088f4502fccdd5bfade10d5277f1ef B.K.TU <actionkeep@gmail.com> 1476198015 +0800	checkout: moving from release/v.1.0.8 to master
+e0cf858839088f4502fccdd5bfade10d5277f1ef 383f1c03dc5056c87f396f5aeca8cbcb41b9318d B.K.TU <actionkeep@gmail.com> 1476198016 +0800	merge release/v.1.0.8: Merge made by the 'recursive' strategy.
+383f1c03dc5056c87f396f5aeca8cbcb41b9318d b03f6b006895b111b9aa88dd8143f8a6b5563a1e B.K.TU <actionkeep@gmail.com> 1476286331 +0800	checkout: moving from master to develop
+b03f6b006895b111b9aa88dd8143f8a6b5563a1e 383f1c03dc5056c87f396f5aeca8cbcb41b9318d B.K.TU <actionkeep@gmail.com> 1476286356 +0800	checkout: moving from develop to master
+383f1c03dc5056c87f396f5aeca8cbcb41b9318d b03f6b006895b111b9aa88dd8143f8a6b5563a1e B.K.TU <actionkeep@gmail.com> 1476286563 +0800	checkout: moving from master to develop
+b03f6b006895b111b9aa88dd8143f8a6b5563a1e 163e5e6bc3129adda2f0534376fa056394423f2a B.K.TU <actionkeep@gmail.com> 1476286672 +0800	commit: Delete empty pages of print
+163e5e6bc3129adda2f0534376fa056394423f2a 163e5e6bc3129adda2f0534376fa056394423f2a B.K.TU <actionkeep@gmail.com> 1476286698 +0800	checkout: moving from develop to release/v1.0.9
+163e5e6bc3129adda2f0534376fa056394423f2a 383f1c03dc5056c87f396f5aeca8cbcb41b9318d B.K.TU <actionkeep@gmail.com> 1476286718 +0800	checkout: moving from release/v1.0.9 to master
+383f1c03dc5056c87f396f5aeca8cbcb41b9318d ca5054555f64af5ca60185be1f09c4fed7552ef3 B.K.TU <actionkeep@gmail.com> 1476286719 +0800	merge release/v1.0.9: Merge made by the 'recursive' strategy.
+ca5054555f64af5ca60185be1f09c4fed7552ef3 163e5e6bc3129adda2f0534376fa056394423f2a B.K.TU <actionkeep@gmail.com> 1476433175 +0800	checkout: moving from master to develop
+163e5e6bc3129adda2f0534376fa056394423f2a 3d73bb44475d6172bf128c5a9b4f962869c46709 B.K.TU <actionkeep@gmail.com> 1476433625 +0800	commit: Add 聯絡我們 of link with top menu and fix window.location to member
+3d73bb44475d6172bf128c5a9b4f962869c46709 3d73bb44475d6172bf128c5a9b4f962869c46709 B.K.TU <actionkeep@gmail.com> 1476433651 +0800	checkout: moving from develop to release/v1.1.0
+3d73bb44475d6172bf128c5a9b4f962869c46709 ca5054555f64af5ca60185be1f09c4fed7552ef3 B.K.TU <actionkeep@gmail.com> 1476433665 +0800	checkout: moving from release/v1.1.0 to master
+ca5054555f64af5ca60185be1f09c4fed7552ef3 94b5e1afcfcf8d2d1b0f0ebec0aabbeec1919851 B.K.TU <actionkeep@gmail.com> 1476433666 +0800	merge release/v1.1.0: Merge made by the 'recursive' strategy.
+94b5e1afcfcf8d2d1b0f0ebec0aabbeec1919851 3d73bb44475d6172bf128c5a9b4f962869c46709 B.K.TU <actionkeep@gmail.com> 1476442031 +0800	checkout: moving from master to develop
+3d73bb44475d6172bf128c5a9b4f962869c46709 2b68878bb9bfdac831af7a908ea0e18667e07c1e B.K.TU <actionkeep@gmail.com> 1476442113 +0800	commit: Add Information in home page
+2b68878bb9bfdac831af7a908ea0e18667e07c1e 2b68878bb9bfdac831af7a908ea0e18667e07c1e B.K.TU <actionkeep@gmail.com> 1476442140 +0800	checkout: moving from develop to release/v1.1.1
+2b68878bb9bfdac831af7a908ea0e18667e07c1e 94b5e1afcfcf8d2d1b0f0ebec0aabbeec1919851 B.K.TU <actionkeep@gmail.com> 1476442157 +0800	checkout: moving from release/v1.1.1 to master
+94b5e1afcfcf8d2d1b0f0ebec0aabbeec1919851 a431cb4a91eb48f7b8b000f60584acdaa313936f B.K.TU <actionkeep@gmail.com> 1476442157 +0800	merge release/v1.1.1: Merge made by the 'recursive' strategy.
+a431cb4a91eb48f7b8b000f60584acdaa313936f ada6e8f091ecd4950066e47824fa5cf1c32c2c5a B.K.TU <actionkeep@gmail.com> 1476538991 +0800	pull origin master: Fast-forward
+ada6e8f091ecd4950066e47824fa5cf1c32c2c5a 2b68878bb9bfdac831af7a908ea0e18667e07c1e B.K.TU <actionkeep@gmail.com> 1476539000 +0800	checkout: moving from master to develop
+2b68878bb9bfdac831af7a908ea0e18667e07c1e 5fe539c530a900dea359d7d8966c0c3bfefde496 B.K.TU <actionkeep@gmail.com> 1476539204 +0800	commit: Add editor of step information from home page
+5fe539c530a900dea359d7d8966c0c3bfefde496 b41714b1a87fcf7b69e73798f29c05dafd8ed449 B.K.TU <actionkeep@gmail.com> 1477504218 +0800	pull origin develop: Fast-forward
+b41714b1a87fcf7b69e73798f29c05dafd8ed449 6c11af07dda51abf63d065f7ee729cc05e7c8e05 B.K.TU <actionkeep@gmail.com> 1477504249 +0800	pull origin master: Fast-forward
+6c11af07dda51abf63d065f7ee729cc05e7c8e05 ada6e8f091ecd4950066e47824fa5cf1c32c2c5a B.K.TU <actionkeep@gmail.com> 1477504309 +0800	checkout: moving from develop to master
+ada6e8f091ecd4950066e47824fa5cf1c32c2c5a 6c11af07dda51abf63d065f7ee729cc05e7c8e05 B.K.TU <actionkeep@gmail.com> 1477504315 +0800	checkout: moving from master to develop
+6c11af07dda51abf63d065f7ee729cc05e7c8e05 ada6e8f091ecd4950066e47824fa5cf1c32c2c5a B.K.TU <actionkeep@gmail.com> 1477504671 +0800	checkout: moving from develop to master
+ada6e8f091ecd4950066e47824fa5cf1c32c2c5a 6c11af07dda51abf63d065f7ee729cc05e7c8e05 B.K.TU <actionkeep@gmail.com> 1477504686 +0800	pull origin master: Fast-forward
+6c11af07dda51abf63d065f7ee729cc05e7c8e05 6c11af07dda51abf63d065f7ee729cc05e7c8e05 B.K.TU <actionkeep@gmail.com> 1477504784 +0800	checkout: moving from master to develop
+6c11af07dda51abf63d065f7ee729cc05e7c8e05 0cf54a8aa1712f2a9a36e9c5d3e0901d1abc6649 B.K.TU <actionkeep@gmail.com> 1477505055 +0800	commit: Edit title
+0cf54a8aa1712f2a9a36e9c5d3e0901d1abc6649 6c11af07dda51abf63d065f7ee729cc05e7c8e05 B.K.TU <actionkeep@gmail.com> 1479513929 +0800	checkout: moving from develop to master
